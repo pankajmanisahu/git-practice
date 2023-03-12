@@ -4,3 +4,6 @@ for i in L:
         print('even')
     else:
         print('odd')
+import pandas as pd
+import numpy as np
+import seaborn as sns
